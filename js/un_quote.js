@@ -1,7 +1,7 @@
  // Code by David A. Wheeler; this trivial ECMAscript is public domain.
  // Moved the script into HTML body so that search engines, and clients on
  // low-speed lines, would see the "actual" content before these quotes.
- 
+
  // slightly modified for usage by thewisenerd
  // some quotes have been removed/added
  // find the original version here: http://www.dwheeler.com/
@@ -120,3 +120,9 @@
  // This actually displays the quote.
  document.getElementById("currentquote").innerHTML = random_quote;
  }
+
+$(document).ready(function() {
+    $('#currentquote').on('click', function(e) {
+        newquote();
+    });
+});
