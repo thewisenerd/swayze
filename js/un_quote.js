@@ -81,7 +81,7 @@
     "That BBM is free for iOS and Android, and BlackBerry users have to pay for it. - Unknown",
     "Some people are poor, all they have is money.",
     "The world's hunger is getting ridiculous. There is more fruit in a rich man's shampoo than in a poor man's plate.",
-    "What goes around comes around.",
+    "<marquee>What goes around comes around.</marquee>",
     "The more you learn, the less you know.",
     "The only true wisdom is in knowing you know nothing.",
     "Intelligent people are full of doubts while the stupid ones are full of confidence.",
